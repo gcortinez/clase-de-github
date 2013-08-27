@@ -23,6 +23,9 @@ git add README
 
 git commit -m "tu primer commit"
 
+git remote add origin git@githubxxxxxxx.git   // se trae desde GitHub se copia la URL
+
+
 git push origin master
 
 /************************************GIT desde 0 - Por @klinsmannf****************************************/
